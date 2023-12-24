@@ -1,0 +1,57 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Geography",
+      "content": "Sections of the Earth's crust that move due to convection currents",
+      "answer": "Tectonic Plates",
+      "status": "Want to Learn",
+      "date": 1703409815072,
+      "img": "https://i.ibb.co/zhPMWXB/5051807235-443d12d95b.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Geography",
+      "content": "Sections of the Earth's crust that move due to convection currents",
+      "answer": "Tectonic Plates",
+      "status": "Want to Learn",
+      "date": 1703409815092,
+      "img": "https://i.ibb.co/zhPMWXB/5051807235-443d12d95b.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Computer Graphics",
+      "content": "A single point in an image",
+      "answer": "Pixel",
+      "status": "Want to Learn",
+      "date": 1703409815172,
+      "img": "none"
+    },
+    {
+      "id": 4,
+      "title": "Computer Graphics",
+      "content": "Type of memory organization to store images using a stored map of bits",
+      "answer": "Bitmap",
+      "status": "Want to Learn",
+      "date": 1703409815192,
+      "img": "none"
+    },
+    {
+      "id": 5,
+      "title": "Computer Graphics",
+      "content": "The collective name for the alpha values for every pixel of an image or bitmap.",
+      "answer": "Alpha buffer",
+      "status": "Want to Learn",
+      "date": 1703409815272,
+      "img": "none"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "subject": "Test",
+      "email": "test@test.com",
+      "content": "Test"
+    }
+  ]
+}
